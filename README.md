@@ -1,1 +1,1 @@
-# Automatic_ReportCard_Generatoe
+# Automatic_ReportCard_Generator
