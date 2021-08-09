@@ -1,4 +1,4 @@
-Automatic_ReportCard_Generator using Python
+Automatic_ReportCard_Generator using Python\n
 ❉ libraries used : 
 ⊶ FPDF for creating pdf
 ⊶ openpyxl to deal with spreadsheets
